@@ -1,6 +1,6 @@
 # parent node
 
-A node that links to a [child node](./ds-tree-child-node.md).
+A node that links to a [child node](./child-node.md).
 
 In this diagram, `2` is a parent node of `7`.
 

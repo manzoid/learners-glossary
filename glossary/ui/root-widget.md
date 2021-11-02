@@ -1,3 +1,4 @@
 # root widget
 
-The widget at the [root](./ds-tree-root.md) of the [widget tree](./ui-widget-tree.md).
+The widget at the [root](../ds-and-algo/adt/tree/root-node.md) of the [widget tree](../ui/widget-tree.md).
+

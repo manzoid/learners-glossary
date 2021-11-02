@@ -1,3 +1,3 @@
 # compiler
 
-A tool that performs [source code compilation](./source-code-compilation.md).
+A tool that performs [source code compilation](./compilation.md).

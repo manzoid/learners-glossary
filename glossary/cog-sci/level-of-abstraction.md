@@ -2,4 +2,4 @@
 
 TODO
 
-[abstraction](./cog-sci-abstraction.md)
+[abstraction](./abstraction.md)

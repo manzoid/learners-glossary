@@ -1,6 +1,6 @@
 # Material Design
 
-A [design system](./ux-design-system.md) from Google, with an accompanying [widget library](./ui-widget-library.md).
+A [design system](./design-system.md) from Google, with an accompanying [widget library](../ui/widget-library.md).
 
 ## References
 
